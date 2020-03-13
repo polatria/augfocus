@@ -58,7 +58,7 @@ cmakeを利用してビルド可能です。</br>
 
     自らビルドする必要があるライブラリは**For Eye Tracking**に示した3つです。</br>
     ***CMAKE_PREFIX_PATH***という環境変数を作成し、ライブラリのビルド時にできるフォルダのパスを登録して下さい。
-    ![CMAKE_PREFIX_PATH](../augfocus/cmake_path.png)
+    ![cmake_path](https://user-images.githubusercontent.com/15144450/76413502-e425f500-63d8-11ea-80a2-fc6f9d94f0a1.png)
 
       > プログラムにパスを通してくれないので上手く機能していませんが、cmakeによるビルド時にライブラリを認識させるためです。[(参考サイト)](プログラムにパスを通してくれないので上手く機能していませんが)
 
@@ -66,7 +66,7 @@ cmakeを利用してビルド可能です。</br>
 
     cmake GUIで*augfocus*フォルダを指定し、ビルドして下さい。</br>
     その際、Visual Studioのツールセットをv141(Visual Studio 2017のもの)に指定してください。</br>
-    ![cmake](../augfocus/cmake.png)
+    ![cmake](https://user-images.githubusercontent.com/15144450/76413465-d4a6ac00-63d8-11ea-8cf0-90b1b87fe6bd.png)
 
 
 
