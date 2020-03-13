@@ -1,5 +1,0 @@
-C:/Users/oshirolab/Desktop/augfocus/build/CMakeFiles/edit_cache.dir
-C:/Users/oshirolab/Desktop/augfocus/build/CMakeFiles/rebuild_cache.dir
-C:/Users/oshirolab/Desktop/augfocus/build/src/CMakeFiles/augfocus.dir
-C:/Users/oshirolab/Desktop/augfocus/build/src/CMakeFiles/edit_cache.dir
-C:/Users/oshirolab/Desktop/augfocus/build/src/CMakeFiles/rebuild_cache.dir
